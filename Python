@@ -1,0 +1,19 @@
+num 1= float(input("enter the first number:))
+num 2=float(input("enter the second number:))
+operation=input(enter the operation (+,-,*,/)
+if operation=='+'
+result = num1+num2
+print (result:(num1)+(num2)=[result"])
+elif operation=='-'
+result=num1-num2
+print(result;[num1]-[num2]=[result"])
+elif operation=='*'
+result=num1*num2
+print(result;[num1]*[num2]=[result"])
+elif operation=='/'
+result= num1/num2
+print(result;[num1]/[num2]=[result"])
+else:
+print("Error: division by zero is not allowed ")
+else
+print("invalid operation.please enter +,-,* or /")
